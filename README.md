@@ -19,5 +19,6 @@ ArkTS / Java / Python / C++ / TypeScript
 
 - Blog: https://lomocat.xyz/
 - B站: https://space.bilibili.com/387724668
+- 爱发电: https://ifdian.net/a/lomocat
 
 项目问题请提 issue。
