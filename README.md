@@ -4,10 +4,10 @@ ArkTS/鸿蒙生态，Java、Python、C++、Electron。
 
 ### 项目
 
-- [Bika-HarmonyOS](https://github.com/LoMoCatAp/Bika-HarmonyOS) — 哔咔鸿蒙客户端，持续更新
 - [ImmersiveAI](https://github.com/LoMoCatAp/ImmersiveAI) — AI聚合客户端，多供应商管理，Key本地存储
 - [PezMax-HarmonyOS](https://github.com/LoMoCatAp/PezMax-HarmonyOS) — 拼图满绩的鸿蒙版
 - [FileEncryptor](https://github.com/LoMoCatAp/FileEncryptor) — 纯离线Windows文件加密
+- [Bika-HarmonyOS](https://github.com/LoMoCatAp/Bika-HarmonyOS) — 哔咔鸿蒙客户端
 - [JavaMahjong_web](https://github.com/LoMoCatAp/JavaMahjong_web) — 课设，联机麻将，Spring Boot + WebSocket
 
 ### 技术
