@@ -1,16 +1,23 @@
-## Hi there 👋
+## LomoCat
 
-<!--
-**LoMoCatAp/LoMoCatAp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ArkTS/鸿蒙生态，Java、Python、C++、Electron。
 
-Here are some ideas to get you started:
+### 项目
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Bika-HarmonyOS](https://github.com/LoMoCatAp/Bika-HarmonyOS) — 哔咔鸿蒙客户端，持续更新
+- [ImmersiveAI](https://github.com/LoMoCatAp/ImmersiveAI) — AI聚合客户端，多供应商管理，Key本地存储
+- [PezMax-HarmonyOS](https://github.com/LoMoCatAp/PezMax-HarmonyOS) — 拼图满绩的鸿蒙版
+- [FileEncryptor](https://github.com/LoMoCatAp/FileEncryptor) — 纯离线Windows文件加密
+- [JavaMahjong_web](https://github.com/LoMoCatAp/JavaMahjong_web) — 课设，联机麻将，Spring Boot + WebSocket
+
+### 技术
+
+ArkTS / Java / Python / C++ / TypeScript
+
+
+### 找我
+
+- Blog: https://lomocat.xyz/
+- B站: https://space.bilibili.com/387724668
+
+项目问题请提 issue。
