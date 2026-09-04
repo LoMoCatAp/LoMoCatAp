@@ -8,7 +8,7 @@ ArkTS/鸿蒙生态，Java、Python、C++、Electron。
 - [PezMax-HarmonyOS](https://github.com/LoMoCatAp/PezMax-HarmonyOS) — 拼图满绩的鸿蒙版
 - [FileEncryptor](https://github.com/LoMoCatAp/FileEncryptor) — 纯离线Windows文件加密
 - [Bika-HarmonyOS](https://github.com/LoMoCatAp/Bika-HarmonyOS) — 哔咔鸿蒙客户端
-- [JavaMahjong_web](https://github.com/LoMoCatAp/JavaMahjong_web) — 课设，联机麻将，Spring Boot + WebSocket
+- [JavaMahjong_web](https://github.com/LoMoCatAp/JavaMahjong_web) — 联机麻将
 
 ### 技术
 
