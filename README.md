@@ -22,9 +22,7 @@
 
 ## About
 
-ArkTS / 鸿蒙生态，Java、Python、C++、Electron。主要写鸿蒙原生应用，其他时间折腾小工具。
-
-数据尽量留在本地，能离线就离线。
+ArkTS / 鸿蒙生态，Java、Python、C++、Electron。
 
 ## Projects
 
@@ -34,14 +32,14 @@ ArkTS / 鸿蒙生态，Java、Python、C++、Electron。主要写鸿蒙原生应
 
 ### [AIBox（ImmersiveAI）](https://github.com/LoMoCatAp/ImmersiveAI)
 
-HarmonyOS AI 聚合客户端。多供应商、流式对话，API Key 只存本地。
+HarmonyOS AI 聚合客户端。多供应商、流式对话，本地API-Key。
 
 </td>
 <td width="50%" valign="top">
 
 ### [PezMax-HarmonyOS](https://github.com/LoMoCatAp/PezMax-HarmonyOS)
 
-PezMax 的鸿蒙客户端，ArkTS + ArkUI 写的。
+PezMax 的鸿蒙客户端，ArkTS + ArkUI。
 
 </td>
 </tr>
@@ -50,14 +48,14 @@ PezMax 的鸿蒙客户端，ArkTS + ArkUI 写的。
 
 ### [Bika-HarmonyOS](https://github.com/LoMoCatAp/Bika-HarmonyOS)
 
-哔咔漫画的鸿蒙第三方客户端，带离线下载。
+哔咔漫画的鸿蒙第三方客户端。
 
 </td>
 <td width="50%" valign="top">
 
 ### [FileEncryptor](https://github.com/LoMoCatAp/FileEncryptor)
 
-Windows 文件加密工具，纯离线，不联网。
+Windows离线文件加密工具。
 
 </td>
 </tr>
@@ -66,14 +64,14 @@ Windows 文件加密工具，纯离线，不联网。
 
 ### [JavaMahjong_web](https://github.com/LoMoCatAp/JavaMahjong_web)
 
-Java 后端的 Web 联机麻将。
+Java 后端的Web联机麻将。
 
 </td>
 <td width="50%" valign="top">
 
 ### 其他
 
-还有些零散的工具和原型，都在[仓库](https://github.com/LoMoCatAp?tab=repositories)里。
+一些零散的工具和原型，尽在[仓库](https://github.com/LoMoCatAp?tab=repositories)里。
 
 </td>
 </tr>
