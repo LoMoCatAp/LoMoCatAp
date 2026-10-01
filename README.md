@@ -3,8 +3,8 @@
 # LomoCat
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=800&color=9BA3AE&center=true&vCenter=true&width=620&lines=ArkTS%20%2F%20HarmonyOS%20%2F%20Java;Python%20%2F%20C%2B%2B%20%2F%20Electron;%E5%81%9A%E5%B7%A5%E5%85%B7%EF%BC%8C%E4%B9%9F%E5%81%9A%E5%BA%94%E7%94%A8">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=800&color=57606A&center=true&vCenter=true&width=620&lines=ArkTS%20%2F%20HarmonyOS%20%2F%20Java;Python%20%2F%20C%2B%2B%20%2F%20Electron;%E5%81%9A%E5%B7%A5%E5%85%B7%EF%BC%8C%E4%B9%9F%E5%81%9A%E5%BA%94%E7%94%A8" alt="ArkTS, HarmonyOS, Java, Python, C++, Electron">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=800&color=9BA3AE&center=true&vCenter=true&width=620&lines=ArkTS%20%2F%20HarmonyOS%20%2F%20Java;Python%20%2F%20C%2B%2B%20%2F%20Electron">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=800&color=57606A&center=true&vCenter=true&width=620&lines=ArkTS%20%2F%20HarmonyOS%20%2F%20Java;Python%20%2F%20C%2B%2B%20%2F%20Electron" alt="ArkTS, HarmonyOS, Java, Python, C++, Electron">
 </picture>
 
 <br>
