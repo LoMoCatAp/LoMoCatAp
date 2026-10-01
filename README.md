@@ -39,7 +39,7 @@ HarmonyOS AI 聚合客户端。多供应商、流式对话，本地API-Key。
 
 ### [PezMax-HarmonyOS](https://github.com/LoMoCatAp/PezMax-HarmonyOS)
 
-PezMax 的鸿蒙客户端，ArkTS + ArkUI。
+PezMax 的鸿蒙客户端。
 
 </td>
 </tr>
