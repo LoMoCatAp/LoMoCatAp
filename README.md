@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D8BFF,100:946CE6&height=140&section=header&animation=twinkling" alt="LomoCat">
+
 <div align="center">
 
 # LomoCat
@@ -100,6 +102,16 @@ Java 后端的Web联机麻将。
 </a>
 
 </div>
+
+---
+
+<div align="center">
+
+<sub>Bug 和需求请提 issue。</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D8BFF,100:946CE6&height=100&section=footer&reversal=true&animation=twinkling" alt="">
 
 ---
 
