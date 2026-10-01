@@ -2,22 +2,7 @@
 
 <div align="center">
 
-<svg width="360" height="84" viewBox="0 0 360 84" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LomoCat">
-  <defs>
-    <linearGradient id="lomoTitle" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0D8BFF">
-        <animate attributeName="stop-color" values="#0D8BFF;#946CE6;#0D8BFF" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#946CE6">
-        <animate attributeName="stop-color" values="#946CE6;#0D8BFF;#946CE6" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#0D8BFF">
-        <animate attributeName="stop-color" values="#0D8BFF;#946CE6;#0D8BFF" dur="6s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <text x="180" y="58" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="url(#lomoTitle)">LomoCat</text>
-</svg>
+# LomoCat
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=800&color=9BA3AE&center=true&vCenter=true&width=620&lines=ArkTS%20%2F%20HarmonyOS%20%2F%20Java;Python%20%2F%20C%2B%2B%20%2F%20Electron">
@@ -41,26 +26,7 @@
 
 ArkTS / 鸿蒙生态，Java、Python、C++、Electron。
 
-<div align="center">
-
-<svg width="132" height="42" viewBox="0 0 132 42" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projects">
-  <defs>
-    <linearGradient id="sweepProjects" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0D8BFF">
-        <animate attributeName="offset" values="-0.5;1" dur="3.5s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="5%" stop-color="#946CE6">
-        <animate attributeName="offset" values="-0.45;1.05" dur="3.5s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#0D8BFF" stop-opacity="0.12"/>
-    </linearGradient>
-  </defs>
-  <rect x="1.5" y="1.5" width="129" height="39" rx="19.5" fill="none" stroke="#8C959F" stroke-opacity="0.35" stroke-width="1"/>
-  <rect x="1.5" y="1.5" width="129" height="39" rx="19.5" fill="none" stroke="url(#sweepProjects)" stroke-width="1.6"/>
-  <text x="66" y="27" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#8B949E">Projects</text>
-</svg>
-
-</div>
+## Projects
 
 <table>
 <tr>
