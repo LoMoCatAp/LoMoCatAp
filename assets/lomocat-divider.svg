@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="32" viewBox="0 0 1200 32" role="img" aria-label="Cyan and violet animated divider">
+  <defs><linearGradient id="line"><stop stop-color="#67e8f9" stop-opacity="0"/><stop offset=".35" stop-color="#67e8f9"/><stop offset=".65" stop-color="#a78bfa"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient></defs>
+  <style>.flow{animation:flow 9s linear infinite}@keyframes flow{from{stroke-dashoffset:0}to{stroke-dashoffset:-1200}}@media(prefers-reduced-motion:reduce){.flow{animation:none}}</style>
+  <path d="M0 16H1200" stroke="url(#line)" stroke-opacity=".2"/>
+  <path class="flow" d="M0 16H1200" stroke="url(#line)" stroke-width="2" stroke-dasharray="100 1100" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">LoMoCat — Code with curiosity.</title>
+  <desc id="desc">A midnight-blue banner with an orbiting cyan and violet cat emblem. HarmonyOS, desktop tools and playful experiments.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b32"/><stop offset="1" stop-color="#090d19"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7165e8" stop-opacity=".26"/><stop offset="1" stop-color="#7165e8" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a9bde5" stroke-opacity=".055"/></pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="1198" height="378" rx="24"/></clipPath>
+    <style>
+      .orbit{transform-origin:948px 190px;animation:spin 28s linear infinite}
+      .reverse{animation-direction:reverse;animation-duration:38s}
+      .float{animation:float 6s ease-in-out infinite}
+      .pulse{animation:pulse 4s ease-in-out infinite}
+      .cursor{animation:blink 1.3s steps(2,end) infinite}
+      @keyframes spin{to{transform:rotate(360deg)}}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+      @keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+      @keyframes blink{50%{opacity:0}}
+      @media(prefers-reduced-motion:reduce){.orbit,.float,.pulse,.cursor{animation:none}}
+    </style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="380" fill="url(#bg)"/>
+    <rect width="1200" height="380" fill="url(#grid)"/>
+    <ellipse cx="955" cy="180" rx="340" ry="280" fill="url(#glow)"/>
+    <path d="M64 1H1136" stroke="url(#accent)" stroke-opacity=".7" stroke-width="2"/>
+    <g font-family="Segoe UI,Arial,sans-serif">
+      <circle cx="66" cy="70" r="4" fill="#67e8f9" class="pulse"/>
+      <text x="82" y="75" fill="#a6b9d2" font-size="13" letter-spacing="3">LOMOCAT / DEVELOPER</text>
+      <text x="60" y="173" fill="#f3f7ff" font-size="76" font-weight="700" letter-spacing="-3">LoMoCat<tspan fill="#8bafff">.</tspan></text>
+      <text x="64" y="216" fill="#c2d0e4" font-size="24" letter-spacing=".4">Code with curiosity.</text>
+      <text x="64" y="254" fill="#8496b1" font-size="16">HarmonyOS · Desktop tools · Playful experiments</text>
+      <g font-family="Consolas,monospace" font-size="13">
+        <text x="64" y="323" fill="#67e8f9">&gt;</text>
+        <text x="83" y="323" fill="#9bacc5">build. explore. repeat.</text>
+        <rect x="267" y="312" width="8" height="14" fill="#a78bfa" class="cursor"/>
+      </g>
+    </g>
+    <g fill="none" stroke="#526080" stroke-opacity=".36">
+      <circle cx="948" cy="190" r="144"/>
+      <circle cx="948" cy="190" r="111" stroke-dasharray="3 10"/>
+      <path d="M772 190H793M1103 190H1124M948 14V35M948 345V366"/>
+    </g>
+    <g class="orbit">
+      <path d="M948 46a144 144 0 0 1 144 144" fill="none" stroke="url(#accent)" stroke-width="2"/>
+      <circle cx="948" cy="46" r="6" fill="#67e8f9"/>
+      <circle cx="948" cy="334" r="4" fill="#a78bfa"/>
+    </g>
+    <g class="orbit reverse"><circle cx="1059" cy="190" r="4" fill="#c4b5fd"/><circle cx="837" cy="190" r="3" fill="#67e8f9"/></g>
+    <g class="float">
+      <rect x="880" y="122" width="136" height="136" rx="38" fill="#131e35" stroke="#7f8ac4" stroke-opacity=".35" transform="rotate(-8 948 190)"/>
+      <path d="M911 182L908 157L928 168Q948 158 968 168L988 157L985 182Q996 218 969 229Q948 238 927 229Q900 218 911 182Z" fill="#1d2b46" stroke="url(#accent)" stroke-width="3" stroke-linejoin="round"/>
+      <path d="M925 193L933 198L925 203M971 193L963 198L971 203" fill="none" stroke="#b9edff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M943 213Q948 218 953 213" fill="none" stroke="#b9edff" stroke-width="2.5" stroke-linecap="round"/>
+    </g>
+    <g fill="#a3b0d2" class="pulse"><circle cx="765" cy="82" r="2"/><circle cx="1131" cy="289" r="2"/><circle cx="1091" cy="72" r="1.5"/></g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="379" rx="24" fill="none" stroke="#7384ac" stroke-opacity=".2"/>
+</svg>
