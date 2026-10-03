@@ -119,7 +119,7 @@ Windows 离线文件加密工具。
 **技术栈**
 
 <p>
-<img src="./assets/toolbox.svg" width="440" alt="TypeScript、Java、Kotlin、Python、C++、Electron、Vue" />
+<img src="./assets/tech-stack.svg" width="440" alt="TypeScript、Java、Kotlin、Python、C++、Electron、Vue" />
 </p>
 
 <!-- Icons: https://github.com/tandpfun/skill-icons | License: assets/skill-icons-LICENSE.txt -->
