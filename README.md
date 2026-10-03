@@ -8,7 +8,7 @@
 &nbsp;
 <a href="https://lomocat.xyz/"><img src="https://img.shields.io/badge/Blog-lomocat.xyz-C4B5FD?style=flat-square&amp;logo=rss&amp;logoColor=white&amp;labelColor=172033" alt="Blog · lomocat.xyz" /></a>
 &nbsp;
-<a href="https://space.bilibili.com/387724668"><img src="https://img.shields.io/badge/Bilibili-来看看-F9A8D4?style=flat-square&amp;logo=bilibili&amp;logoColor=white&amp;labelColor=172033" alt="Bilibili" /></a>
+<a href="https://space.bilibili.com/387724668"><img src="https://img.shields.io/badge/Bilibili-B站-F9A8D4?style=flat-square&amp;logo=bilibili&amp;logoColor=white&amp;labelColor=172033" alt="Bilibili" /></a>
 &nbsp;
 <a href="https://ifdian.net/a/lomocat"><img src="https://img.shields.io/badge/爱发电-Support-C4B5FD?style=flat-square&amp;labelColor=172033" alt="爱发电 · 支持" /></a>
 
@@ -111,9 +111,7 @@ Windows 离线文件加密工具。
 
 <div align="center">
 
-**ArkTS · HarmonyOS**
-
-<sub>常用语言、框架与工具</sub>
+**技术栈**
 
 <p>
 <img src="./assets/toolbox.svg" width="440" alt="TypeScript、Java、Kotlin、Python、C++、Electron、Vue、Docker、Git、GitHub Actions" />
