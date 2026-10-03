@@ -2,7 +2,12 @@
 
 <img src="./assets/lomocat-hero.svg" width="100%" alt="LoMoCat — Code with curiosity." />
 
-<p><samp>Hello, world.</samp></p>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=17&amp;duration=2600&amp;pause=1600&amp;color=9DCBFF&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=42&amp;repeat=true&amp;lines=Hello%2C+world.%3BBuilding+with+ArkTS+%26+HarmonyOS.%3BJava+%C2%B7+Python+%C2%B7+C%2B%2B+%C2%B7+Electron" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=17&amp;duration=2600&amp;pause=1600&amp;color=5268A8&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=42&amp;repeat=true&amp;lines=Hello%2C+world.%3BBuilding+with+ArkTS+%26+HarmonyOS.%3BJava+%C2%B7+Python+%C2%B7+C%2B%2B+%C2%B7+Electron" width="680" height="42" alt="Hello, world. / Building with ArkTS &amp; HarmonyOS. / Java · Python · C++ · Electron" />
+</picture>
+</p>
 
 <a href="https://github.com/LoMoCatAp?tab=followers"><img src="https://img.shields.io/badge/GitHub-LoMoCatAp-9DCBFF?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=172033" alt="GitHub · LoMoCatAp" /></a>
 &nbsp;
@@ -107,14 +112,14 @@ Windows 离线文件加密工具。
 
 <a id="stack"></a>
 
-## 03 / Toolbox
+## 03 / Tech Stack
 
 <div align="center">
 
 **技术栈**
 
 <p>
-<img src="./assets/toolbox.svg" width="440" alt="TypeScript、Java、Kotlin、Python、C++、Electron、Vue、Docker、Git、GitHub Actions" />
+<img src="./assets/toolbox.svg" width="440" alt="TypeScript、Java、Kotlin、Python、C++、Electron、Vue" />
 </p>
 
 <!-- Icons: https://github.com/tandpfun/skill-icons | License: assets/skill-icons-LICENSE.txt -->
